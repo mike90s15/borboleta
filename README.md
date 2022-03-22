@@ -7,5 +7,5 @@ pkg i -y git
 git clone https://github.com/mike90s15/borboleta
 cd borboleta
 chmod 777 *
-./
+./Butterfly
 ```
